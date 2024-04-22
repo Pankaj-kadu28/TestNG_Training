@@ -1,0 +1,11 @@
+<test name="ExampleTest">
+    <classes>
+        <class name="com.example.ExampleTest">
+            <methods>
+                <include name="testMethod1"/>
+                <include name="testMethod2"/>
+                <include name="testMethod3"/>
+            </methods>
+        </class>
+    </classes>
+</test>
